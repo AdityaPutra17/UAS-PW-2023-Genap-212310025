@@ -1,0 +1,2 @@
+
+https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/01/735664714.jpg<?php /**PATH D:\final projek\WEB\PW_saungeling\Web-SaungEling\SaungEling\resources\views/welcome.blade.php ENDPATH**/ ?>
